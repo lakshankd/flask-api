@@ -29,7 +29,7 @@ A basic REST API built using Flask, providing CRUD operations for user managemen
         ```
     -  On Windows:    
         ```bash
-        .venv\Scripts\activate
+        source .venv\Scripts\activate
         ```
 
 4. **Install the dependencies::**
